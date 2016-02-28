@@ -1,5 +1,7 @@
 ## Laravel PHP Framework
 
+0. Clone the project and in terminal type >composer install
+
 1. In config\database.php, you can select your database driver:
     default=sqlsrv
 
